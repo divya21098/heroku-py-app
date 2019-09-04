@@ -1,0 +1,1 @@
+web: gunicorn djangoher.wsgi --log-file -
